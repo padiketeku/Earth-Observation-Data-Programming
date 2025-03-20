@@ -47,9 +47,9 @@ Runtime - use this to run code in a various styles
 
 Commands - this is where you find the various commands you can call
 
-+ Code - this is used when you want to add a block of code
+`+ Code` - this is used when you want to add a block of code
 
-+ Text - this is used when you want to add a text. The text does not affect the code as it is only the code that runs.
+`+ Text` - this is used when you want to add a text. The text does not affect the code as it is only the code that runs.
 
 
 
