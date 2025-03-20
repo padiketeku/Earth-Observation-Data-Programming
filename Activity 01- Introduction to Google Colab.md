@@ -6,21 +6,21 @@
 ## Load Colab Notebook
 
 
-1, Type "Colab" into a search bar and click "Google Colab". Seee the figure below for the item to click is identified with a red rectangle.
+1, Type `Colab` into a search bar and click "Google Colab". Seee the figure below for the item to click is identified with a red rectangle.
 
 
 ![image](https://github.com/user-attachments/assets/9d3a738b-881b-44a9-92c9-1be4d3d694e2)
 
 
 
-Once you click "Google Colab" a window, such as the one shown below pops up, click the "Open Colab" (identified with a red polygon).
+Once you click `Google Colab` a window, such as the one shown below pops up, click the `Open Colab` (identified with a red polygon).
 
 
 ![image](https://github.com/user-attachments/assets/bfcbe303-7fea-4ef9-a341-e8ae0d3cca6c)
 
 
 
-The "open notebook" window pops up (see figure below for how this may look like). Click "+New notebook" to open a new notebook. 
+The `open notebook` window pops up (see figure below for how this may look like). Click `+New notebook` to open a new notebook. 
 
 
 ![image](https://github.com/user-attachments/assets/0bf1a547-0de5-4877-9cef-d4a2ca870020)
