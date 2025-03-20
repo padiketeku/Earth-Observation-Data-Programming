@@ -51,7 +51,7 @@ The filename identified by default as `Untitled1.ipynb` can be edited to reflect
 
 `+ Text` - this is used when you want to add a text. The text does not affect the code as it is only the code that runs.
 
-
+Click `RAM`  and  `Disk` to review the RAM and storage space available for use. 
 
 
 
