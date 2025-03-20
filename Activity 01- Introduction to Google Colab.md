@@ -38,7 +38,7 @@ It may take a few seconds for the notebook to open, so please exercise patience 
 
 ## Exploring the Notebook Interface
 
-The filename identified by default as `Untitled1.ipynb` can be edited to reflect filename appropriate to you. The file is an interactive Python note book (ipynb), hence the format. To edit filename select it (i.e., "Untitled1") and type in the name you prefer to replace the default name.
+The filename identified by default as `Untitled1.ipynb` can be edited to reflect filename appropriate to you. The file is an interactive Python note book (ipynb), hence the format. To edit filename, select it (i.e., "Untitled1") and type in the name you prefer to replace the existing name.
 
 
 `Insert` - you can insert code cell, text cell, etc using this function
