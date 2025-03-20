@@ -38,14 +38,14 @@ It may take a few seconds for the notebook to open, so please exercise patience 
 
 ## Exploring the Notebook Interface
 
-The filename identified by default as "Untitled1.ipynb" can be edited to reflect filename appropriate to you. The file is an interactive Python note book (ipynb), hence the format. To edit filename select it (i.e., "Untitled1") and type in the name you prefer to replace the default name.
+The filename identified by default as `Untitled1.ipynb` can be edited to reflect filename appropriate to you. The file is an interactive Python note book (ipynb), hence the format. To edit filename select it (i.e., "Untitled1") and type in the name you prefer to replace the default name.
 
 
-Insert - you can insert code cell, text cell, etc using this function
+`Insert` - you can insert code cell, text cell, etc using this function
 
-Runtime - use this to run code in a various styles
+`Runtime` - use this to run code in a various styles
 
-Commands - this is where you find the various commands you can call
+`Commands` - this is where you find the various commands you can call
 
 `+ Code` - this is used when you want to add a block of code
 
